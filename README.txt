@@ -1,5 +1,3 @@
-This is a brief coding challenge to pull events from around a user's neighborhood using the Yelp API.
-
 All requests to the server are routed via the routes.js file into their respective callback functions that are
 defined in the controller.
 
