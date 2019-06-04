@@ -1,4 +1,4 @@
-# Backend design and development challenge for NYU IT
+Backend design and development challenge for NYU IT
 
 All requests to the server are routed via the routes.js file into their respective callback functions that are
 defined in the controller.
